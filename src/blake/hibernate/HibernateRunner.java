@@ -1,5 +1,13 @@
 package blake.hibernate;
+/*******************************************************************
+ *  HibernateRunner class
+ *  Description: This is my main program that handles all of
+ *  the various calls to the database through various
+ *  operations.
+ *  I used ideas and layout from "Doing More With Java"
+ *******************************************************************/
 
+// Imported Libraries
 import org.hibernate.query.Query;
 import org.hibernate.Session;
 import org.hibernate.Transaction;

@@ -1,5 +1,13 @@
 package blake.hibernate;
+/*******************************************************************
+ *  User class
+ *  Description: This is the class that correlates to my
+ *  app_user table as well as the user_number table
+ *  in my database.
+ *  I used ideas and layout from "Doing More With Java"
+ *******************************************************************/
 
+// Imported Libraries
 import java.util.Set;
 import javax.persistence.CascadeType;
 import javax.persistence.Entity;

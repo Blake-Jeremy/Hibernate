@@ -1,5 +1,13 @@
 package blake.hibernate;
+/*******************************************************************
+ *  HibernateConfig class
+ *  Description: This is my configuration file for Hibernate
+ *  all of the settings that are needed to hook up to my database
+ *  go in here.
+ *  I used ideas and layout from "Doing More With Java"
+ *******************************************************************/
 
+// Imported Libraries
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.registry.StandardServiceRegistryBuilder;

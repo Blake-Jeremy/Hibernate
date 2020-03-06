@@ -1,5 +1,12 @@
 package blake.hibernate;
+/*******************************************************************
+ *  PhoneNumber class
+ *  Description: This is the class that correlates to my
+ *  phone_number table in my database.
+ *  I used ideas and layout from "Doing More With Java"
+ *******************************************************************/
 
+// Imported Libraries
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
